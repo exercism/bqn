@@ -1,13 +1,10 @@
 # Learning
 
-<!-- TODO: write document
+## Websites
 
-  This document should link to learning resources.
+- The [BQN Tutorial](https://mlochbaum.github.io/BQN/tutorial/index.html) is a great introduction into BQN.
+- The [BQN Documentation](https://mlochbaum.github.io/BQN/doc/index.html) lets you lookup things.
 
-  Feel free to link to any good learning resources you know, whether they
-  be websites, blogs, books, videos or courses.
-
-  The contents of this document are displayed on the track's documentation
-  page at `https://exercism.org/docs/tracks/<track>/learning`.
-
-  See https://exercism.org/docs/building/tracks/docs for more information. -->
+## Video
+- The Youtube channels [code\_report](https://www.youtube.com/c/codereport) and [Asher Mancinelli](https://www.youtube.com/c/AsherMancinelli) have solved some exercises in BQN.
+- A german talk about BQN by [Johny](https://www.youtube.com/watch?v=cEWrmbXTQ8Y)
