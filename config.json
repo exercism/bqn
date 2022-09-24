@@ -16,14 +16,23 @@
     "highlightjs_language": "TODO: specify highlightjs language"
   },
   "files": {
-    "solution": [],
-    "test": [],
-    "example": [],
-    "exemplar": []
+    "solution": ["%{pascal_slug}.bqn"],
+    "test": ["%{pascal_slug}_test.bqn"],
+    "example": [".meta/example.bqn"],
+    "exemplar": [".meta/exemplar.bqn"]
   },
   "exercises": {
     "concept": [],
-    "practice": []
+    "practice": [
+        {
+        "slug": "hello-world",
+        "name": "Hello World",
+        "uuid": "f458c48a-4a05-4809-9168-8edd55179349",
+        "practices": [],
+        "prerequisites": [],
+        "difficulty": 1
+      }
+    ]
   },
   "concepts": [],
   "key_features": [],

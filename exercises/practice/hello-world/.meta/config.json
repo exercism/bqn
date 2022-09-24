@@ -1,0 +1,12 @@
+{
+  "authors": [],
+  "files": {
+    "solution": ["hello_world.bqn"],
+    "test": [
+    "hello_world_test.bqn"],
+    "example": [".meta/example.bqn"]
+  },
+  "blurb": "The classical introductory exercise. Just say \"Hello, World!\".",
+  "source": "This is an exercise to introduce users to using Exercism",
+  "source_url": "http://en.wikipedia.org/wiki/%22Hello,_world!%22_program"
+}
