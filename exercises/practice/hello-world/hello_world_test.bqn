@@ -1,1 +1,3 @@
-#TODO test that Hello_world is "Hello, World!"
+ns ← •Import "hello_world.bqn"
+
+! "Hello, World!"  ≡ ns.hello_world
