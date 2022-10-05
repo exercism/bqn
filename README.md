@@ -2,7 +2,7 @@
 
 [![configlet](https://github.com/exercism/bqn/workflows/configlet/badge.svg)](https://github.com/exercism/bqn/actions?query=workflow%3Aconfiglet) [![tests](https://github.com/exercism/bqn/workflows/test/badge.svg)](https://github.com/exercism/bqn/actions?query=workflow%3Atest)
 
-Exercism exercises in BQN.
+Exercism exercises in [BQN](https://mlochbaum.github.io/BQN/doc/index.html).
 
 ## Testing
 
