@@ -1,10 +1,15 @@
 {
   "authors": [],
   "files": {
-    "solution": ["hello_world.bqn"],
+    "solution": [
+      "hello_world.bqn"
+    ],
     "test": [
-    "hello_world_test.bqn"],
-    "example": [".meta/example.bqn"]
+      "hello_world_test.bqn"
+    ],
+    "example": [
+      ".meta/example.bqn"
+    ]
   },
   "blurb": "The classical introductory exercise. Just say \"Hello, World!\".",
   "source": "This is an exercise to introduce users to using Exercism",
