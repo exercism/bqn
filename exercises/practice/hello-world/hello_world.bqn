@@ -1,4 +1,4 @@
 
-⟨hello_world⟩⇐
+⟨Hello_world⟩⇐
 
-hello_world ← "Goodbye, Mars!"
+Hello_world ← {𝕊: "Goodbye, Mars!"}

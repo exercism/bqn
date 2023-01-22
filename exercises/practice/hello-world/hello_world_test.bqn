@@ -1,3 +1,3 @@
-ns ← •Import "hello_world.bqn"
+⟨Hello_world⟩ ← •Import "hello_world.bqn"
 
-! "Hello, World!"  ≡ ns.hello_world
+! "Hello, World!" ≡ Hello_world@
