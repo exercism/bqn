@@ -1,0 +1,9 @@
+MostCommonWord ← {
+  lower ← 𝕩 + 32 × (𝕩 ≥ 'A') ∧ 𝕩 ≤ 'Z'
+  isChar ← lower ≠ ' '
+  words ← (1 -˜ isChar × +` isChar > »isChar) ⊔ lower
+  unique ← ⍷ words
+  counts ← +´˘ unique ≡⌜ words
+  i ← ⊑ ⍒ counts
+  """" ∾ (i ⊑ unique) ∾ """ appears " ∾ (•Fmt i ⊑ counts) ∾ " times"
+}
